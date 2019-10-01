@@ -1,6 +1,7 @@
 # Hacktoberfest_SignIn_2019
 
 The goal of this repo is to help beginners who are doing their first pull requests. Feel free to join!
+Note, this is not affiliated with the Official Hacktoberfest Team, it is merely to help you get started.
 
 ## Instruction
 In the index file, look for the 'ol' tag. Then insert a 'li' tag with your link to your profile.
