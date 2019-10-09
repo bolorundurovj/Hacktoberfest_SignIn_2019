@@ -4,7 +4,7 @@ The goal of this repo is to help beginners who are doing their first pull reques
 Note, this is not affiliated with the Official Hacktoberfest Team, it is merely to help you get started.
 
 ## Instruction
-In the index file, look for the 'ol' tag. Then insert a 'li' tag with your link to your profile.
+In the index file, look for the 'ol' tag. Then insert a 'li' tag with the link to your profile.
 
 
 ## Git and Pull Request Resources
